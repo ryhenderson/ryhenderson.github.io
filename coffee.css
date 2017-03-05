@@ -51,18 +51,22 @@ there are definitely some properties you should add!*/
     section article img{
       width: 200px;
       margin-left: 170px;
+      display:inline-block;
+
     }
 
     section article h2{
       width: 652px;
       margin-left: 170px;
     }
-
+#what {
+  margin-bottom: 30px;
+}
     section article p {
       color: #121212;
-      margin-left: 400px;
       max-width: 420px;
       text-align: justify;
+      display: inline-block;
     }
     h2 {
       background-color: #eee9e3;
